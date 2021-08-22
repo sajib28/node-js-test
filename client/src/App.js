@@ -15,7 +15,7 @@ import Home from './components/pages/Home';
 function App() {
   return (
     <div className="App">
-      <Router>
+      <Router basename="/node-test/">
         <Navbar></Navbar>
         <div className="container-fluid">
           <div className="row">
