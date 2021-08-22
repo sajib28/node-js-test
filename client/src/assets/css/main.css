@@ -1,0 +1,17 @@
+.navbar {
+  background-color: #fff;
+}
+
+.left-title {
+  line-height: 35px;
+}
+
+.sidebar {
+  height: calc(100vh - 56px);
+  background: #212529;
+}
+
+.sidebar .nav-link {
+  color: white;
+}
+/*# sourceMappingURL=main.css.map */
